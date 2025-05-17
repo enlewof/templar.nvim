@@ -19,4 +19,4 @@ More informations
 -----------------
 
 Check out `:h templar.txt` to have a more in depth overview of the plugin.
-For more powerfull templates, check out `:h templar-fields`.
+For more powerful templates, check out `:h templar-fields`.
